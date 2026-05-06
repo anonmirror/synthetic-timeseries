@@ -79,7 +79,7 @@ All model files (`models/`, `layers/`) and base dataset loaders (`data_provider/
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/anonmirror/synthetic-timeseries
 cd synthetic-tslib
 pip install -r requirements.txt
 ```
