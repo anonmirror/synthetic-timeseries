@@ -2,9 +2,8 @@
 
 This repository contains the code, experiment scripts, and results accompanying the paper:
 
-> **When Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters**  
+> **Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters**  
 > Anonymous Authors
-> Preprint: [arXiv link — to be added]
 
 ---
 
@@ -168,20 +167,6 @@ The paper's controlled study plans 4,218 runs across Groups 1–9 (Table 3); the
 | `mae` | Test MAE |
 | `train_time` | Wall-clock training time (seconds) |
 
----
-
-## Citation
-
-```bibtex
-@article{anon2026synthetic,
-  title     = {When Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters},
-  author    = {Anonymous Authors},
-  journal   = {arXiv preprint},
-  year      = {2026}
-}
-```
-
----
 
 ## Acknowledgements
 
